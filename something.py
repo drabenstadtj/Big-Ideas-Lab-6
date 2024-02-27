@@ -24,4 +24,4 @@ elif len(other_input) > length:
 print("Interpolated string with alternating letters:", result)
 
 # Thank the user
-print()
+print("Thank you " + name + " for using this program")
