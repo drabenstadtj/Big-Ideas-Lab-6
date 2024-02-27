@@ -3,3 +3,4 @@ This program takes two inputs from the user: a name and another input. It then e
 # Members:
 - Jack Drabenstadt (jtd102)
 - Aidan Conroy (aec164)
+- Logan Snyder (los59)

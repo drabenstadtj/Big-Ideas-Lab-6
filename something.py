@@ -22,3 +22,6 @@ elif len(other_input) > length:
 
 # Print the interpolated string
 print("Interpolated string with alternating letters:", result)
+
+# Thank the user
+print()
